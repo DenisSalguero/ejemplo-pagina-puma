@@ -1,4 +1,3 @@
-/* Diseño escritorio: de 769 px hasta un máximo de 1232 px.  Hereda estilos de: Diseño móvil y Diseño tableta. */
 *{
   margin: 0%;
   padding: 0%;
@@ -388,4 +387,3 @@ body{
 
 
 }
-
